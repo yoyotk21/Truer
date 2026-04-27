@@ -1,4 +1,4 @@
-# Answer
+# Truer
 
 A chat UI that answers every question with **three concurrent stages** — an instant streamed reply, a medium-reasoning panel, and a high-reasoning panel — and lets later stages revise earlier ones. Each non-instant stage runs four frontier models from different vendors in parallel and synthesizes them into a single answer with inline citations back to the supporting models.
 
